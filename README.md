@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Nere Community](https://nerecommunity.com)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** and **Karate**
 
 - 💬 Ask me about **Javascript, Typescript, NestJS, LLMs**
 
