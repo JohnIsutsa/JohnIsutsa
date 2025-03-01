@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working and building [Nere Community](https://nerecommunity.com)
 
-- 🌱 I’m currently learning **Next.js** and how to be a decent human being..  
-- 💬 Ask me about **Javascript, Typescript, NestJS, LLMs**
+- 🌱 I’m currently learning **Next.js** and how to be a decent human being.  
+- 💬 Ask me about **Javascript, kTypescript, NestJS, LLMs**
 
 - 📫 How to reach me **johnisutsa@gmail.com**
 
